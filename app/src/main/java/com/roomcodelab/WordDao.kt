@@ -1,4 +1,4 @@
-package com.skreep.roomcodelab
+package com.roomcodelab
 
 import androidx.room.Dao
 import androidx.room.Insert

@@ -1,4 +1,4 @@
-package com.skreep.roomcodelab
+package com.roomcodelab
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

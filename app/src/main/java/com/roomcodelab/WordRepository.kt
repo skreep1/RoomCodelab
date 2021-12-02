@@ -1,4 +1,4 @@
-package com.skreep.roomcodelab
+package com.roomcodelab
 
 import androidx.annotation.WorkerThread
 import kotlinx.coroutines.flow.Flow

@@ -1,4 +1,4 @@
-package com.skreep.roomcodelab
+package com.roomcodelab
 
 import android.app.Application
 import kotlinx.coroutines.CoroutineScope
